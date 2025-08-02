@@ -1,10 +1,10 @@
-# BudgetMate
+# BudgetMate 💰📊
 
-Simple tool to track your expenses and income.
+Simple tool to track your expenses and income. ✨
 
-## Features
-- Add transactions easily
-- View financial summaries
-- Plot income vs. expenses
+## Features 🌟
+- Add transactions easily➕ 
+- View financial summaries 📋
+- Plot income vs. expenses 💹
 
-## Installation
+
